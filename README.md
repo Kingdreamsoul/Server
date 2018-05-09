@@ -6,13 +6,13 @@ Both the interface of these two app are on the basis of dashboard templete from 
 
 
 <strong>APIs</strong> 
-<p>Both App:Leaflet map; Material design</p>
+Both App:Leaflet map; Material design</br>
 Mobile App: MDC template
 <p>node.js:Express API</p>
 
 
 <strong>Technique Requirements(Hardware or Softerware)</strong> 
-<p>Both App: UCL VPN (e.g. CISC VPN App) & Network; PhoneGap; Notepad++; Bitvise SSH Client</P>
+Both App: UCL VPN (e.g. CISC VPN App) & Network; PhoneGap; Notepad++; Bitvise SSH Client</br>
 Mobile Application: Android phone</br>
 Web Application: run 'node httpServer.js &' in terminal and then run 'phonegap serve' in terminal </br>
 <p>works well on Chrome, Firefox and Internet Explorer broswer</p>
@@ -20,11 +20,11 @@ Web Application: run 'node httpServer.js &' in terminal and then run 'phonegap s
 
 
 <strong>Installation</strong> 
-<p>Mobile Application: file manager app & QR code scanner in android</p>
+Mobile Application: file manager app & QR code scanner in android</br>
 QR code scanning to download and installation according to alert instruction(i.e. open and press install)</br>
 <p>Web Application: access from http://developer.cege.ucl.ac.uk:31276</p>
 
  
 <strong>Acknowledgments</strong> 
-<p>Majority of code were adapted from the practical in Web and Mobile GIS module</p>
+Majority of code were adapted from the practical in Web and Mobile GIS module</br>
 Other sources were cited in code
