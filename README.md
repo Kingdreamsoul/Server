@@ -11,5 +11,5 @@ Leaflet Map
 
 How to use:
 run 'node.httpServer.js &' in terminal 
-run 'phonegap serve' in terminal
+and then run 'phonegap serve' in terminal
 access http://developer.cege.ucl.ac.uk:31276
